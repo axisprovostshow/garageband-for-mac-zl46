@@ -1,4 +1,4 @@
-# 
+# advanced GarageBand for macOS Overlay | shortcut-customization + auto-color-grading offers the most advanced GarageBand for macOS overlay, with shortcut-customization and
 
 
 
